@@ -144,7 +144,7 @@ I want you to know that you are the most precious person in my life. Every day w
       sendKissButton: "Send a Virtual Hug 🤗",
       dateLocale: "en-US",
       // Letter content
-      letterGreeting: "Dear Friend,",
+      letterGreeting: "Dear Patidev ji,",
       letterParagraphs: [
         "May 2026 bring you endless opportunities and beautiful moments.",
         "Celebrate every day, cherish every memory, and keep moving forward with hope.",
